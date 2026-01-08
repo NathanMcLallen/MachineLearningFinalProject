@@ -1,1 +1,3 @@
 This project consists of two python notebooks that were written and run using google colab. The ML_project.ipynb notebook first combines the patient, clinical and mutation data into a single dataset then includes exploration, feature selection and preprocessing of the data. This notebook also trains, optimizes, and evaluates classification models which predict whether a patients breast cancer will recur within 10 years. The regression.ipynb notebook includes training, optimization, and evaluation of regression models to predict the amount of time until recurrence.
+
+The three included data files were downloaded from the METABRIC Breast Cancer dataset on cBioPortal.org, found here https://www.cbioportal.org/study/summary?id=brca_metabric#summary.
